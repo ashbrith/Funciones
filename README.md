@@ -1,5 +1,5 @@
 # Funciones con Node.js
-_En este repositorios pruebo diferentes enfoques simples, para aplicar las herramientas que voy aprendiendo_
+_En este repositorio pruebo diferentes enfoques simples, para aplicar las herramientas que voy aprendiendo_
 
 
 ## Comenzando 🚀
